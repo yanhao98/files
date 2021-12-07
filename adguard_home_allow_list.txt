@@ -1,0 +1,15 @@
+@@||sentry.io^$important
+@@||widget.cdn.bcebos.com^$important
+@@||report.meituan.com^$important
+@@||analytics.meituan.net^$important
+@@||jiguang.cn^$important
+@@||jpush.cn^$important
+@@||firebaselogging-pa.googleapis.com^$important
+@@||cc-api-data.adobe.io^$important
+@@||www.google-analytics.com^$important
+@@||microsoft.com^$important
+@@||google-analytics.com^$important
+@@||www-google-analytics.l.google.com^$important
+@@||dataflow.biliapi.com^$important
+@@||testin.cn^$important
+@@||collector.githubapp.com^$important
