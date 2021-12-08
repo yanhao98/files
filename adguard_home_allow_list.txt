@@ -13,3 +13,4 @@
 @@||dataflow.biliapi.com^$important
 @@||testin.cn^$important
 @@||collector.githubapp.com^$important
+@@||aliyun-page.cn-hangzhou.log.aliyuncs.com^$important
