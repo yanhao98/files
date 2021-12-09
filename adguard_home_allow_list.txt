@@ -14,3 +14,6 @@
 @@||testin.cn^$important
 @@||collector.githubapp.com^$important
 @@||aliyun-page.cn-hangzhou.log.aliyuncs.com^$important
+@@||sdk.split.io^$important
+@@||sensors.cloud.tencent.com^$important
+@@||ios.rqd.qq.com^$important
