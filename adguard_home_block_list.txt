@@ -1,0 +1,21 @@
+
+# MacWk.com Hosts Start
+
+# Proxifier
+127.0.0.1 www.proxifier.com
+127.0.0.1 proxifier.com
+
+# Tower
+127.0.0.1 account.git-tower.com
+127.0.0.1 updates.fournova.com
+
+# Macs Fan Control
+127.0.0.1 crystalidea.com
+127.0.0.1 www.crystalidea.com
+127.0.0.1 v3pro.crystalidea.com
+
+# Beyond Compare
+127.0.0.1 www.scootersoftware.com
+127.0.0.1 scootersoftware.com
+
+# MacWk.com Hosts End
