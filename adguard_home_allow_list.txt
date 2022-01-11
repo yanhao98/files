@@ -18,3 +18,4 @@
 @@||sensors.cloud.tencent.com^$important
 @@||ios.rqd.qq.com^$important
 @@||app-measurement.com^$important
+@@||icloud.com^$important
