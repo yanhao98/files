@@ -19,4 +19,4 @@
 @@||ios.rqd.qq.com^$important
 @@||app-measurement.com^$important
 @@||icloud.com^$important
-@@||dc.services.visualstudio.com^$important
+@@||visualstudio.com^$important
