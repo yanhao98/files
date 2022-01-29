@@ -20,3 +20,4 @@
 @@||app-measurement.com^$important
 @@||icloud.com^$important
 @@||visualstudio.com^$important
+@@||taobao.com^$important
