@@ -22,3 +22,4 @@
 @@||visualstudio.com^$important
 @@||h-adashx.ut.taobao.com^$important
 @@||github.com^$important
+@@||githubusercontent.com^$important
