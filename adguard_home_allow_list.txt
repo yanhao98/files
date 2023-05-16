@@ -24,3 +24,4 @@
 @@||github.com^$important
 @@||githubusercontent.com^$important
 @@||fpnpmcdn.net^$important
+@@||api.fpjs.io^$important
