@@ -25,3 +25,4 @@
 @@||githubusercontent.com^$important
 @@||fpnpmcdn.net^$important
 @@||api.fpjs.io^$important
+@@||api.statsig.com^$important
